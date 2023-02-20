@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": "6Z88RMk",
+      "name": "Nguyễn Minh Quý 1",
+      "age": "20",
+      "image": {}
+    },
+    {
+      "name": "Hoàng Xuân Quang",
+      "age": "20",
+      "image": [
+        "https://res.cloudinary.com/drz5jpxjp/image/upload/v1676887566/ECMA/mcwifgrmilitsiwc22kf.png"
+      ],
+      "id": "-VMrmcf"
+    }
+  ]
+}
